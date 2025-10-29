@@ -11,11 +11,11 @@ features
 - clean  interface - simple dropdown selection with styled buttons
 
 tech stack 
-frameworks & libraries 
+= frameworks & libraries 
 - streamlit - web app framework
 - gdown - google drive file downloads
 - pickle - model and data serialization
 - numpy - numerical computations
 - pandas - data manipulation
-languages
+= languages
 - python - backend logic   
