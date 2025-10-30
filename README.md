@@ -6,7 +6,7 @@ link = https://movierecommendersystem42.streamlit.app/
 
 features 
 - smart recommendations - get 5 movie suggestions similar to your input
-- performancce metrics - see precision, diversity, and novelty scores for your recommendations
+- performance metrics - see precision, diversity, and novelty scores for your recommendations
 - genre analysis - recommendations consider genre overlap and diversity 
 - clean  interface - simple dropdown selection with styled buttons
 
